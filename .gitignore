@@ -1,4 +1,7 @@
 .idea/
 .git/
+anf.egg-info/
+dist/
 *.pyc
 setup.py
+otp.py
